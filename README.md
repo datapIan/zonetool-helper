@@ -1,4 +1,4 @@
-# Zonetool Helper
+# Zonetool Helper <a href="https://github.com/datapIan/zonetool-helper/releases"><img src="https://img.shields.io/github/downloads/datapIan/zonetool-helper/total?color=red&label=downloads&style=flat-square">
 
 **A batch script that automatically downloads and installs [Zonetool](https://github.com/ZoneTool/zonetool)**
 
